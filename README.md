@@ -11,8 +11,8 @@ The data can be download in three (3) different ways.
 2. PCode_Instruction_Duplicates.csv
 3. PCode_Datasets.zip (Contains 1 & 2)
 
-* ```PCode_Instructions.csv``` has 4000 unique P-Code instructions. With column such as ID, PCode, Type, and Malware.
-* ```PCode_Instructions_Duplicates.csv``` contains the same entries has ```PCode_Instructions.csv``` but also has some duplicate entry. 
+* ```PCode_Instructions.csv``` has 4 181 unique P-Code instructions. With columns such as ID, PCode, Type, and Malware.
+* ```PCode_Instructions_Duplicates.csv``` contains the same entries and columns has ```PCode_Instructions.csv``` but also has some duplicate entry. 
 
 # Usage
 
