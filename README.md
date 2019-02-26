@@ -7,12 +7,12 @@ This dataset is a dump of P-Code instructions originated from malicious and beni
 # Data
 
 The data can be download in three (3) different ways.  
-1. PCode_Instructions.csv 
-2. PCode_Instructions_Duplicates.csv
+1. PCode_Instructions.zip 
+2. PCode_Instructions_Duplicates.zip
 3. PCode_Datasets.zip (Contains 1 & 2)
 
-* ```PCode_Instructions.csv``` has 4 181 unique P-Code instructions. With columns such as ID, PCode, Type, and Malware.
-* ```PCode_Instructions_Duplicates.csv``` contains the same entries and columns has ```PCode_Instructions.csv``` but also has some duplicate entries. It has a total of 5 293 entries.  
+* ```PCode_Instructions.zip``` has a CSV file with 4 181 unique P-Code instructions. With columns such as ID, PCode, Type, and Malware.
+* ```PCode_Instructions_Duplicates.zip``` contains the same entries and columns has ```PCode_Instructions.zip``` but also has some duplicate entries. It has a total of 5 293 entries.  
 * ```PCode_Datasets.zip``` contains ```PCode_Instructions_Duplicates.csv``` and ```PCode_Instructions.csv```
 
 # Usage
